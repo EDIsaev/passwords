@@ -1,4 +1,4 @@
-# Rockyou2024.txt
+# RockYou2024.txt
 
 10 billion #passwords leaked in the largest compilation of all time!
 
